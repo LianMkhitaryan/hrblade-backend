@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>checklist</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="6-3-Pricing" transform="translate(-180.000000, -961.000000)" fill-rule="nonzero">
+            <g id="Group-14" transform="translate(145.000000, 575.000000)">
+                <g id="ui/done" transform="translate(35.000000, 386.000000)">
+                    <g id="checklist">
+                        <circle id="Oval" fill-opacity="0.4" fill="#0DDE84" cx="11" cy="11" r="10.970587"></circle>
+                        <circle id="Oval" fill="#0DDE84" cx="11" cy="11" r="9.03769565"></circle>
+                        <path d="M9.92965217,15.1721087 C9.64019818,15.1721713 9.36307644,15.0549208 9.16156522,14.8471304 L5.68269565,11.2630435 C5.41193138,10.9894698 5.30890986,10.5915796 5.41288481,10.2209787 C5.51685977,9.85037777 5.81181765,9.56414374 6.18537229,9.47133876 C6.55892692,9.37853378 6.95354583,9.49345108 7.21886957,9.77230435 L9.90263043,12.5371304 L14.7569783,7.1806087 C15.1561115,6.75278649 15.8247791,6.72463911 16.2584548,7.11740445 C16.6921305,7.51016979 16.7301594,8.17834824 16.3438478,8.61778261 L10.7242826,14.8213043 C10.5250773,15.0405343 10.2440075,15.1675221 9.94782609,15.1721087 L9.92965217,15.1721087 Z" id="Path" fill="#FFFFFF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="34px" viewBox="0 0 34 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 12</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="6-1-Landing" transform="translate(-476.000000, -1909.000000)">
+            <g id="Group-13" transform="translate(194.000000, 1733.000000)">
+                <g id="Group-12" transform="translate(282.000000, 176.000000)">
+                    <circle id="Oval" fill="#0636CC" cx="17" cy="17" r="17"></circle>
+                    <g id="play-button" transform="translate(13.458333, 12.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                        <path d="M9.93292067,5.12837981 L0.625228365,0.0514567308 C0.494074519,-0.0196201923 0.334997596,-0.0170817308 0.207228365,0.0590721154 C0.0786129808,0.135225962 -7.93269231e-05,0.273995192 -7.93269231e-05,0.422918269 L-7.93269231e-05,10.5767644 C-7.93269231e-05,10.7265337 0.0786129808,10.8644567 0.207228365,10.9406106 C0.273228365,10.9803798 0.348536058,10.9998413 0.422997596,10.9998413 C0.493228365,10.9998413 0.562612981,10.9820721 0.625228365,10.9473798 L9.93292067,5.87045673 C10.0691514,5.7976875 10.1537668,5.6546875 10.1537668,5.49984135 C10.1537668,5.34499519 10.0691514,5.20199519 9.93292067,5.12837981 Z" id="Path"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

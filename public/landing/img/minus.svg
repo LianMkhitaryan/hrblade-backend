@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="4px" viewBox="0 0 34 4" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Path</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="6-6-FAQ" transform="translate(-1261.000000, -547.000000)" fill="#0636CC" fill-rule="nonzero">
+            <g id="Group-4" transform="translate(632.000000, 538.000000)">
+                <g id="ui/Plus" transform="translate(629.000000, 9.000000)">
+                    <path d="M32.2746816,0.288056206 L18.6855057,0.288056206 L15.2880562,0.288056206 L1.69856921,0.288056206 C0.761105845,0.288056206 0,1.04916205 0,1.98662542 C0,2.92439988 0.761105845,3.68550573 1.69856921,3.68550573 L15.2880562,3.68550573 L18.6855057,3.68550573 L32.2746816,3.68550573 C33.2124561,3.68550573 33.9735619,2.92439988 33.9735619,1.98662542 C33.9735619,1.04916205 33.2124561,0.288056206 32.2746816,0.288056206 Z" id="Path"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
