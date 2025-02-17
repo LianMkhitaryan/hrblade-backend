@@ -15,7 +15,8 @@ class Company extends Model
         'bg_image',
         'header_image',
         'bg_color',
-        'buttons_color'
+        'buttons_color',
+        'description',
     ];
 
     protected $appends = ['permissions', 'share_hash'];

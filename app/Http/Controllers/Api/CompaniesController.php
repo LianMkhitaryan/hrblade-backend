@@ -20,6 +20,7 @@ class CompaniesController extends BaseController
 
         $validator = Validator::make($request->all(), [
             'name' => 'required|max:255',
+            'description'=>'sometimes',
             'location' => 'sometimes',
             'website' => 'sometimes',
             'logo' => 'sometimes',
@@ -81,6 +82,7 @@ class CompaniesController extends BaseController
         $validator = Validator::make($request->all(), [
             'company_id' => 'required',
             'name' => 'required|max:255',
+            'description' => 'sometimes',
             'location' => 'sometimes',
             'website' => 'sometimes',
             'logo' => 'sometimes',
