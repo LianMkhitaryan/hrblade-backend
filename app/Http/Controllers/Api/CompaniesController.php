@@ -136,6 +136,7 @@ class CompaniesController extends BaseController
         $company->location = $request->location;
         $company->website = $request->website;
         $company->industry_id = $request->industry_id;
+        $company->description = $request->description;
         $company->save();
 
         return $this->success($company, __('messages.company_updated'));
